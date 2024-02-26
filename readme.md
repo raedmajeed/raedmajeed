@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working in golang<br>Have experience working with python in web scraping
+🌱 I’m currently learning Go Lang, gRPC, GraphQL, Microservice
+
+
+📫 How to reach me raedam786@outlook.com
 
 
 ## 🌐 Socials:

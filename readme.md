@@ -2,7 +2,7 @@
 🌱 I’m currently learning Go Lang, gRPC, GraphQL, Microservice
 
 
-📫 How to reach me raedam786@outlook.com
+📫 Reach me raedam786@outlook.com
 
 
 ## 🌐 Socials:
